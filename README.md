@@ -25,4 +25,5 @@ Phase 3, more Features:
 - [] Decorate GUI, webpage accessible
 - [] Animation/visualization of file being converted
 
-
+![128 pixels](../example_output/128px.jpg)
+![1024 pixels](../example_output/1024px.jpg)
