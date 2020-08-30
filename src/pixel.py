@@ -5,7 +5,7 @@ from matplotlib import image
 import random
 ###################################################
 ## Import Image here
-image = Image.open('pics\cat.jpg')
+image = Image.open('src/pics/lit.jpg')
 ## Set the Size here
 size = 128 #px
 ###################################################
